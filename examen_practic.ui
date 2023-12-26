@@ -1,0 +1,28 @@
+<UI version="4.0" >
+ <class>examen_practicClass</class>
+ <widget class="QMainWindow" name="examen_practicClass" >
+  <property name="objectName" >
+   <string notr="true">examen_practicClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>examen_practic</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="examen_practic.qrc"/>
+ </resources>
+ <connections/>
+</UI>

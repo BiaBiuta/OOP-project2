@@ -1,0 +1,7 @@
+4 sar  8 info
+7 suwdy  11 info
+8 hudwy  12 mate
+5 adst  11 mate
+3 dan  10 mate
+9 xsu  25 info
+10 bdsu  10 mate-info
